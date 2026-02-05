@@ -1,0 +1,7 @@
+{
+  "name": "Studiq AI",
+  "description": "An advanced AI-powered study companion featuring VPN-style session tracking, smart summarization, interactive quizzes, and AI flashcards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
